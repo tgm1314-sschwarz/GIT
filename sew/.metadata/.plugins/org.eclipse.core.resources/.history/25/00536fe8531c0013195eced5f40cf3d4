@@ -1,0 +1,9 @@
+public class TelefonbuchEintrag {
+	String vname;
+	String nname;
+	String tel;
+	public boolean contains(String a) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+}

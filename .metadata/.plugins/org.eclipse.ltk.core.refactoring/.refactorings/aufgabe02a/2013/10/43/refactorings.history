@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;aufgabe2a_2/src/schwarz&apos;&#x0D;&#x0A;- Original project: &apos;aufgabe02a&apos;&#x0D;&#x0A;- Destination element: &apos;aufgabe2a_2/src/schwarz&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     schwarz.SnakePanel.java&#x0D;&#x0A;     schwarz.SnakeModel.java&#x0D;&#x0A;     schwarz.SnakeView.java&#x0D;&#x0A;     schwarz.SnakeController.java&#x0D;&#x0A;     schwarz.SnakeMain.java" description="Copy compilation units" destination="=aufgabe2a_2/src&lt;schwarz" element1="/src&lt;schwarz{SnakePanel.java" element2="/src&lt;schwarz{SnakeModel.java" element3="/src&lt;schwarz{SnakeView.java" element4="/src&lt;schwarz{SnakeController.java" element5="/src&lt;schwarz{SnakeMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1382723277220" units="5" version="1.0"/>
+</session>
