@@ -1,0 +1,21 @@
+package sschwarz;
+
+import java.io.File;
+
+public class aufgabe06a {
+	public static void main(String[] args){
+		verzeichnisBraumR("C:\Users\d4rkor3\Desktop\sew\sew\bla\src\au01");
+	}
+
+	private static void verzeichnisBraumR(String verzeichnis) {
+		File f = new File(verzeichnis);
+		if(f.isDirectory()){
+			String[] vliste=f.list();
+			for(int i=0; i<vliste.length ;i++){
+				aufgabe06a.verzeichnisBraumR(vliste[i]);
+			}
+		}else{
+			System.out.println(f);
+		}
+	}
+}
